@@ -1,0 +1,23 @@
+{
+  "/": "https://pages.18f.gov",
+  "accessibility": "https://pages.18f.gov/accessibility/",
+  "agile": "https://pages.18f.gov/agile/",
+  "automated-testing-playbook": "https://pages.18f.gov/automated-testing-playbook/",
+  "before-you-ship": "https://pages.18f.gov/before-you-ship/",
+  "blogging-guide": "https://pages.18f.gov/blogging-guide/",
+  "content-guide": "https://pages.18f.gov/content-guide/",
+  "dev-environment": "https://pages.18f.gov/dev-environment/",
+  "dev-environment-standardization": "http://federalist.18f.gov.s3-website-us-east-1.amazonaws.com/site/ccostino/dev-environment-standardization/",
+  "frontend": "https://pages.18f.gov/frontend/",
+  "grouplet-playbook": "https://pages.18f.gov/grouplet-playbook/",
+  "guides": "https://pages.18f.gov/guides/",
+  "guides-template": "https://pages.18f.gov/guides-template/",
+  "iaa-forms": "https://pages.18f.gov/iaa-forms/",
+  "joining-18f": "https://pages.18f.gov/joining-18f/",
+  "lean-product-design": "https://pages.18f.gov/lean-product-design/",
+  "open-source-guide": "https://pages.18f.gov/open-source-guide/",
+  "partnership-playbook": "https://pages.18f.gov/partnership-playbook/",
+  "product-guide": "https://pages.18f.gov/product-guide/",
+  "testing-cookbook": "https://pages.18f.gov/testing-cookbook/",
+  "writing-lab-guide": "https://pages.18f.gov/writing-lab-guide/"
+}
