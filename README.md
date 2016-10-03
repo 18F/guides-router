@@ -1,6 +1,6 @@
 # Getting Started
 
-`guidse-router` is a simple utility that forwards requests for 18F guides to the appropriate guide based on the path prefix.
+`guides-router` is a simple utility that forwards requests for 18F guides to the appropriate guide based on the path prefix.
 
 For example, requests to `/accessibility` are forwarded to the guide on building accessible web applications.
 
