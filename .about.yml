@@ -1,0 +1,91 @@
+---
+# .about.yml project metadata
+#
+# Copy this template into your project repository's root directory as
+# .about.yml and fill in the fields as described below.
+
+# This is a short name of your project that can be used as a URL slug.
+# (required)
+name: guide-router
+
+# This is the display name of your project. (required)
+full_name: Guides Router
+
+# What is the problem your project solves? What is the solution? Use the
+# format shown below. The #dashboard team will gladly help you put this
+# together for your project. (required)
+description: Provides an easy to configure URL mapper so that we can migrate our guides content to another platform without breaking public URLs.
+
+# What is the measurable impact of your project? Use the format shown below.
+# The #dashboard team will gladly help you put this together for your project.
+# (required)
+impact:
+
+# What kind of team owns the repository? (required)
+# values: guild, working-group, project
+owner_type:
+
+# What is your project's current status? (required)
+# values: discovery, alpha, beta, live
+stage:
+
+# Should this repo have automated tests? If so, set to `true`. (required)
+# values: true, false
+testable: true
+
+# What are the licenses that apply to the project and/or its components?
+# (required)
+# Items by property name pattern:
+#   .*:
+#     name: Name of the license from the Software Package Data Exchange (SPDX): https://spdx.org/licenses/
+#     url: URL for the text of the license
+licenses:
+  placeholder_label:
+
+# The main point of contact(s) and/or the issue reporting system for your
+# project, and either a `mailto:` link or URL for each contact.
+# Items:
+# - url: URL for the link
+#   text: Anchor text for the link
+contact:
+-
+
+# Who are the team members on your project? You can specify GitHub usernames,
+# email addresses, or other organizational usernames. (required)
+# Items:
+# - github: GitHub user name
+#   id: Internal team identifier/user name
+#   role: Team member's role; leads should be designated as 'lead'
+team:
+- github: jmhooper
+  role: lead developer
+- github: ccostino
+  role: developer
+- github: jeremiak
+  role: developer
+
+# What kind of content is contained in the project repository?
+# values: app, docs, policy
+type: app
+
+# Name of the main project repo if this is a sub-repo; name of the grouplet
+# repo if this is a working group/guild subproject
+parent: 18f/guides
+
+# What technologies are used in this project?
+stack:
+- JavaScript (node.js)
+
+# What are the services used to supply project status information?
+# Items:
+# - name: Name of the service
+#   category: Type of the service
+#   url: URL for detailed information
+#   badge: URL for the status badge
+services:
+-
+
+# Tags that describe the project or aspects of the project
+tags:
+- guides
+- documentation
