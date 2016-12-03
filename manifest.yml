@@ -1,0 +1,4 @@
+---
+buildpack: staticfile_buildpack
+memory: 64MB
+name: 18f-pages-router
